@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebasUnitariasSpringBootApplication",
+            "request": "launch",
+            "mainClass": "PruebasUnitariasSpringBootApplication",
+            "projectName": "pruebas-unitarias-spring-boot"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-SpringbootWebApplication<springboot-web>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
